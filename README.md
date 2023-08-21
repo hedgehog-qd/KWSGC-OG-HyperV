@@ -1,2 +1,2 @@
-# KWSGC-OG-HyperV
-KWSGalcloud在线游玩-HyperV虚拟机控制模块(Web)
+# KWSGalcloud Online Gal - HyperV虚拟机控制模块(Web API)
+正在开发中
